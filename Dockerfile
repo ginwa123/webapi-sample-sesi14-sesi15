@@ -19,4 +19,7 @@ RUN dotnet publish "WebApiSampleSesi14AndSesi15.csproj" -c Release -o /app/publi
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "WebApiSampleSesi14AndSesi15.dll"]
+
+
+#ENTRYPOINT ["dotnet", "WebApiSampleSesi14AndSesi15.dll"]
+CMD ASPNETCORE_URLS=http://*:$PORT dotnet WebApiSampleSesi14AndSesi15.dll
