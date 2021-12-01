@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "cJlqtOeHPZq8dXAifjm3HOHjyJ0D8oYHGc1VlinUls5uQNk0IRqQ0gZjKzUMWJ09qwz7mqcjNXZpey5AcO96RQ==",
+  "success": true,
+  "projectFilePath": "D:\\04. GILANG\\1. OCBC NISP Fullstack Engineer Intern\\Deployment\\WebApiSampleSesi14AndSesi15\\WebApiSampleSesi14AndSesi15.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fajar Dwisetya I\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Fajar Dwisetya I\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Fajar Dwisetya I\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\Fajar Dwisetya I\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Fajar Dwisetya I\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Fajar Dwisetya I\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Fajar Dwisetya I\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
